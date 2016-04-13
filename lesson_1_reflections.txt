@@ -1,0 +1,7 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It located the line that changed in the different documents, which then allowed me to search within the new document to fix it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Logging my progress as I commit updates to my code.
