@@ -17,3 +17,13 @@ Anything graphical will help see data in general. This makes it easier for a per
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches together collects all the changes done on both and GIT puts them together in the most logical way. We represent it in a diagram so we can treat each branch as a path that is connecting. The diagram shows it as if it where two roads connecting together, which makes total sense for us.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+PROS GIT AUTOMATIC
+-Checks the lines on 3 versions instantally
+-Saves time
+-Comments the files if there are conflicts, so you may check later how to solve it
+
+CONS
+-Not 100% automatic
+-Cant guess for you, you must solve a conflict.
