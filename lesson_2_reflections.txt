@@ -14,3 +14,6 @@ If there are significant/complicated changes, it helps to have different version
 
 How do the diagrams help you visualize the branch structure?
 Anything graphical will help see data in general. This makes it easier for a person to understand what is happening, as usually something visual ( as a tree ) is understandable to us.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together collects all the changes done on both and GIT puts them together in the most logical way. We represent it in a diagram so we can treat each branch as a path that is connecting. The diagram shows it as if it where two roads connecting together, which makes total sense for us.
