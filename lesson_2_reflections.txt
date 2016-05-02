@@ -11,3 +11,6 @@ We can use the staging area by checking the differences in staging are not so bi
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 If there are significant/complicated changes, it helps to have different versions to be able to test and play with. You an also track down a version which might conflict with the master later.
+
+How do the diagrams help you visualize the branch structure?
+Anything graphical will help see data in general. This makes it easier for a person to understand what is happening, as usually something visual ( as a tree ) is understandable to us.
