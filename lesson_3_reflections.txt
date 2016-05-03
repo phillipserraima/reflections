@@ -12,3 +12,8 @@ Branches, are copies or a commit. Here you can independentaly do changes and tes
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you wish to work locally, you have this option. Also if there are any people collaborating that push from a different machine, you can see the differences.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+There would definetely be more communication over calls and commenting on the different folders in a ftp lets say. Someone would have to be assigned a moderator
+this person would have to coordinate everyone and keep track of what is happening. It might be easier because it there could be more exchange and "freestyling work" but
+it will be hard to keep track of everything without a moderator.
